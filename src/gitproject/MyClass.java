@@ -9,13 +9,6 @@ package gitproject;
  *
  * @author Bilal
  */
-public class GitProject {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Hello");
-    }
+public class MyClass {
 
 }
